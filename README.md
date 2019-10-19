@@ -1,2 +1,5 @@
 # ENL-bioinfo-pipelines
-For paper "Gain of function ENL Mutations R einforce Chromatin Recruitment and Impair Cell Fat"
+This repository contains the bioinformatics analysis in paper "Gain of function ENL Mutations R einforce Chromatin Recruitment and Impair Cell Fat". 
+
+
+
